@@ -4,20 +4,16 @@
 
 I am Julian Markiewicz. I am interested and eager to learn new technologies whether that's the frontend or backend. I am a big linux fan, also enjoy using new technologies to bring an excellent user experience. Being a self motivated learner and hard worker interested in continuous self improvement. I am frequent user of open source software and I would like and also try to contribute to the community whether by writing articles about software or making changes to excellent tools that need some improvements.
 
-\&nbsp;&nbsp;
-\&nbsp;&nbsp;
-\&nbsp;&nbsp;
-\&nbsp;&nbsp;
-\&nbsp;&nbsp;
-\&nbsp;&nbsp;
-\&nbsp;&nbsp;
-\&nbsp;&nbsp;
-\&nbsp;&nbsp;
-\&nbsp;&nbsp;
-\&nbsp;&nbsp;
-\&nbsp;&nbsp;
-\&nbsp;&nbsp;
-\&nbsp;&nbsp;
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
 
 <div align="right">
 <a href="https://dev.to/markiewiczjulian"><img height="30" src="./assets/dev-brands.png"></a>&nbsp;&nbsp;
