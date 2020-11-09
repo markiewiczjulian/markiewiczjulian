@@ -1,3 +1,4 @@
+<html>
 <div style="display: flex;">
 <div style="width:50%; max-width: 800px;">
 <h3>Hi there 👋</h3>
@@ -6,8 +7,8 @@
 <img src="./assets/typing.gif" />
 
 </div>
-
-- 🔭 I’m currently working on ...
+</html>
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning:
   - python
   - AWS
