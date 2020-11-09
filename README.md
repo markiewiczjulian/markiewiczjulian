@@ -17,11 +17,12 @@ I am Julian Markiewicz. I am interested and eager to learn new technologies whet
 <a href="mailto:markiewicz.julian@gmail.com"><img height="30" src="./assets/envelope-solid.png"></a>&nbsp;&nbsp;
 </div>
 
-- 🌱 I’m currently learning:
+### 🌱 I’m currently learning:
   - python
   - AWS
   - docker
-- 💻 Technologies and tools:
+---
+### 💻 Technologies and tools:
 
   - javascript
   - typescript
@@ -34,13 +35,13 @@ I am Julian Markiewicz. I am interested and eager to learn new technologies whet
   - docker
   - AWS
   - linux
-
-- 📜 Certificates:
+---
+### 📜 Certificates:
   - AWS Certified Developer Associate
   - AWS Cloud Practitioner
   - Huawei OWS Developer
   - Facebook Marketing Consultants Bronze Certification
   - EF English Standard Test
-
-- 📰 My articles:
+---
+### 📰 My articles:
   - My first time using github actions: https://dev.to/markiewiczjulian/my-first-time-using-github-actions-4kcd
