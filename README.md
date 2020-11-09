@@ -12,6 +12,7 @@
 
 - 💻 Technologies and tools: 
   - javascript
+  - typescript
   - angular2
   - vuejs
   - nodejs
