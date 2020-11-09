@@ -41,9 +41,6 @@ I am Julian Markiewicz. I am interested and eager to learn new technologies whet
   - Huawei OWS Developer
   - Facebook Marketing Consultants Bronze Certification
   - EF English Standard Test
-- 📫 How to reach me:
-
-
 
 - 📰 My articles:
   - My first time using github actions: https://dev.to/markiewiczjulian/my-first-time-using-github-actions-4kcd
