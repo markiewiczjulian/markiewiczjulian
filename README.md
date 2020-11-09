@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
-- 💻 Technologies: 
+- 💻 Technologies and tools: 
   - javascript
   - angular2
   - vuejs
@@ -20,6 +20,7 @@
   - sql
   - docker
   - AWS
+  - linux
   
 - 📫 How to reach me:
   - email: markiewicz.julian@gmail.com
