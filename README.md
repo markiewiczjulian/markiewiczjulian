@@ -39,11 +39,11 @@
   - EF English Standard Test
 - 📫 How to reach me:
 
-  - email: markiewicz.julian@gmail.com
-  - linkedin: https://www.linkedin.com/in/julian-markiewicz-628860191/
-  - website: https://markiewiczjulian.github.io/
-  - DEV profile: https://dev.to/markiewiczjulian
-
+<a href="https://dev.to/markiewiczjulian"><img height="30" src="./assets/dev-brands.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/julian-markiewicz-628860191/"><img height="30" src="./assets/linkedin-brands.png"></a>&nbsp;&nbsp;
+<a href="https://markiewiczjulian.github.io/"><img height="30" src="./assets/globe-europe-solid.png"></a>&nbsp;&nbsp;
+<a href="markiewicz.julian@gmail.com"><img height="30" src="./assets/envelope-solid.png"></a>&nbsp;&nbsp;
+  
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
