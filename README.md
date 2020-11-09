@@ -29,3 +29,6 @@
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 📰 My articles:
+  - My first time using github actions: https://dev.to/markiewiczjulian/my-first-time-using-github-actions-4kcd
