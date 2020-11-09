@@ -22,6 +22,13 @@
   - docker
   - AWS
   - linux
+
+- 📜 Certificates: 
+  - AWS Certified Developer Associate
+  - AWS Cloud Practitioner
+  - Huawei OWS Developer
+  - Facebook Marketing Consultants Bronze Certification
+  - EF English Standard Test
   
 - 📫 How to reach me:
   - email: markiewicz.julian@gmail.com
