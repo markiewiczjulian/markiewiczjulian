@@ -10,7 +10,6 @@ I am Julian Markiewicz. I am interested and eager to learn new technologies whet
 \
 \
 \
-\
 
 <div align="right">
 <a href="https://dev.to/markiewiczjulian"><img height="30" src="./assets/dev-brands.png"></a>&nbsp;&nbsp;
