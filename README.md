@@ -1,4 +1,4 @@
-<img src="./assets/typing.gif" width="600" align="right" />
+<img src="./assets/typing.gif" width="50%" align="right" />
 
 ### Hi there 👋
 
