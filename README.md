@@ -34,12 +34,5 @@ I am Julian Markiewicz. I am interested and eager to learn new technologies whet
   - AWS
   - linux
 ---
-### 📜 Certificates:
-  - AWS Certified Developer Associate
-  - AWS Cloud Practitioner
-  - Huawei OWS Developer
-  - Facebook Marketing Consultants Bronze Certification
-  - EF English Standard Test
----
 ### 📰 My articles:
   - My first time using github actions: https://dev.to/markiewiczjulian/my-first-time-using-github-actions-4kcd
