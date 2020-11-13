@@ -9,6 +9,8 @@ I am Julian Markiewicz. I am interested and eager to learn new technologies whet
 <a href="mailto:markiewicz.julian@gmail.com"><img height="30" src="./assets/envelope-solid.png"></a>&nbsp;&nbsp;
 </div>
 
+---
+
 ### 🌱 I’m currently learning:
   - python
   - AWS
