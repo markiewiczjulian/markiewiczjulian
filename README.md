@@ -21,7 +21,7 @@ I am Julian Markiewicz. I am interested and eager to learn new technologies whet
 ---
 ### 💻 Technologies and tools:
 
-  - javascript
+  - javascript <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" />
   - typescript
   - angular2
   - vuejs
@@ -29,6 +29,7 @@ I am Julian Markiewicz. I am interested and eager to learn new technologies whet
   - express
   - mongodb
   - sql
+  - bootstrap
   - docker
   - AWS
   - linux
