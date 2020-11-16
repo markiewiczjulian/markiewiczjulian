@@ -12,7 +12,6 @@ I am Julian Markiewicz. I am interested and eager to learn new technologies whet
 ---
 
 ### 🌱 I’m currently learning:
-  - python
   - AWS
   - docker
  
