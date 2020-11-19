@@ -11,9 +11,7 @@ I am Julian Markiewicz. I am interested and eager to learn new technologies whet
 
 ## 🌱 I’m currently learning:
 
-<br>
-<img alt="AWS" title="AWS" src="./assets/skills_and_tools/aws.png" height="30">&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="docker" title="docker" src="./assets/skills_and_tools/docker.png" height="30">&nbsp;&nbsp;&nbsp;&nbsp;
+<br><img alt="AWS" title="AWS" src="./assets/skills_and_tools/aws.png" height="30">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="docker" title="docker" src="./assets/skills_and_tools/docker.png" height="30">&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
 
 ---
 
