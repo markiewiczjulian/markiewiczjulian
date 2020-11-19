@@ -1,4 +1,5 @@
 <img src="./assets/typing.gif" width="50%" align="right" />
+
 ## Hi there 👋
 
 I am Julian Markiewicz. I am interested and eager to learn new technologies whether that's the frontend or backend. I am a big linux fan, also enjoy using new technologies to bring an excellent user experience. Being a self motivated learner and hard worker interested in continuous self improvement. I am a frequent user of open source software and I would also like to contribute to the community by writing articles about software or making changes to excellent tools that need some improvements.
