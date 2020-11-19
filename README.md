@@ -13,7 +13,9 @@ I am Julian Markiewicz. I am interested and eager to learn new technologies whet
 <img alt="docker" title="docker" src="./assets/skills_and_tools/docker.png" height="30">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="linux" title="linux" src="./assets/skills_and_tools/linux.png" height="30">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="VS Code" title="VS Code" src="./assets/skills_and_tools/vs_code.png" height="30">&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
 
 ## 📰 My articles:
-<br>- [My first time using github actions](https://dev.to/markiewiczjulian/my-first-time-using-github-actions-4kcd)<br><br>
+<br>
+- [My first time using github actions](https://dev.to/markiewiczjulian/my-first-time-using-github-actions-4kcd)
+<br><br>
 
 ## 📠 Contact me:
 <br><a href="https://dev.to/markiewiczjulian"><img height="30" src="./assets/dev-brands.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/julian-markiewicz-628860191/"><img height="30" src="./assets/linkedin-brands.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://markiewiczjulian.github.io/"><img height="30" src="./assets/globe-europe-solid.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:markiewicz.julian@gmail.com"><img height="30" src="./assets/envelope-solid.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
