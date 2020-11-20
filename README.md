@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 <br>
-I am Julian Markiewicz. I am interested and eager to learn new technologies whether that's the frontend or backend. I am a big linux fan, also enjoy using new technologies to bring an excellent user experience. Being a self motivated learner and hard worker interested in continuous self improvement. I am a frequent user of open source software and I would also like to contribute to the community by writing articles about software or making changes to excellent tools that need some improvements.<br><br>
+I am Julian Markiewicz. I am interested and eager to learn new technologies whether that's the frontend or backend. I am a big linux fan, also enjoy using new technologies to bring an excellent user experience. I am a frequent user of open source software and I would also like to contribute to the community by writing articles about software or making changes to excellent tools that need some improvements.<br><br>
 
 ## 🌱 I’m currently learning:
 <br><img alt="AWS" title="AWS" src="./assets/skills_and_tools/aws.png" height="30">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="docker" title="docker" src="./assets/skills_and_tools/docker.png" height="30">&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
