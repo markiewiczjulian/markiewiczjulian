@@ -13,6 +13,6 @@ I am Julian Markiewicz. I am interested and eager to learn new technologies whet
 ## 📠 Contact me:
 <br><a href="https://dev.to/markiewiczjulian"><img height="30" src="./assets/dev-brands.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/julian-markiewicz-628860191/"><img height="30" src="./assets/linkedin-brands.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://markiewiczjulian.github.io/"><img height="30" src="./assets/globe-europe-solid.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:markiewicz.julian@gmail.com"><img height="30" src="./assets/envelope-solid.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
 
-## 📰 My articles:
+## 📰 Some recent articles:
 
 - [My first time using github actions](https://dev.to/markiewiczjulian/my-first-time-using-github-actions-4kcd)
