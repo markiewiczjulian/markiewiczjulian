@@ -19,4 +19,4 @@ I am Julian Markiewicz. I am interested and eager to learn new technologies whet
 
 ---
 
-<img align="left" alt="markiewiczjulian github stats" src="https://github-readme-stats.vercel.app/api/pin/?username=markiewiczjulian&show_icons=true&hide_border=true" />
+<img align="left" alt="markiewiczjulian github stats" src="https://github-readme-stats.vercel.app/api?username=markiewiczjulian&show_icons=true&hide_border=true" />
