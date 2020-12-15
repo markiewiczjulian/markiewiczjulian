@@ -20,8 +20,6 @@ I am Julian Markiewicz. I am interested and eager to learn new technologies whet
 - [My First Post](https://markiewiczjulian.com/posts/01-my-first-post/)
 <!-- BLOG-POST-LIST:END -->
 
-- [My first time using github actions](https://dev.to/markiewiczjulian/my-first-time-using-github-actions-4kcd) 
-
 ##
 
 <img align="left" alt="markiewiczjulian github stats" src="https://github-readme-stats.vercel.app/api?username=markiewiczjulian&show_icons=true&hide_border=true&theme=tokyonight" />
