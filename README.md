@@ -15,6 +15,9 @@ I am Julian Markiewicz. I am interested and eager to learn new technologies whet
 
 ## 📰 Some recent articles:
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 - [My first time using github actions](https://dev.to/markiewiczjulian/my-first-time-using-github-actions-4kcd) 
 
 ##
