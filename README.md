@@ -16,6 +16,8 @@ I am Julian Markiewicz. I am interested and eager to learn new technologies whet
 ## 📰 Some recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [How to amplify your development process with AWS Amplify](https://markiewiczjulian.com/posts/02-how-to-amplify-your-development-process-with-aws-amplify/)
+- [My First Post](https://markiewiczjulian.com/posts/01-my-first-post/)
 <!-- BLOG-POST-LIST:END -->
 
 - [My first time using github actions](https://dev.to/markiewiczjulian/my-first-time-using-github-actions-4kcd) 
